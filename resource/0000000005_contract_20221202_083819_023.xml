@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:contract xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/exclusion/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanUpdatePositionDataType/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns20="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns21="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns22="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns23="http://zakupki.gov.ru/223fz/typalOrderClauseList/1" xmlns:ns24="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns25="http://zakupki.gov.ru/223fz/ecp-packet/1" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/agencyRelation/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/customerRegistry/1" xmlns:ns7="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://zakupki.gov.ru/223/integration/schema/TFF-12.3 https://zakupki.gov.ru/223/integration/schema/TFF-12.3/contract.xsd">
+    <header>
+        <guid>6052da3d-ec05-4ef3-ab63-a967486af314</guid>
+        <createDateTime>2022-11-28T15:56:29</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>31d9e047-2709-4498-9824-07076e440507</guid>
+            <ns2:contractData>
+                <ns2:guid>c9e5cdd3-a966-401f-94c6-f07ab4188fc5</ns2:guid>
+                <ns2:registrationNumber>87707274249220015690001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:noticeNotPlacedByFz223p5s4>false</ns2:noticeNotPlacedByFz223p5s4>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:customerAppealedOrNeedsApproval>false</ns2:customerAppealedOrNeedsApproval>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlEIS>https://lk.zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=14934736&amp;viewMode=VSRI</ns2:urlEIS>
+                <ns2:createDateTime>2022-11-28T15:54:46</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                        <customerRegistrationDate>1999-01-25T00:00:00</customerRegistrationDate>
+                        <customerAssessedCompliance>false</customerAssessedCompliance>
+                        <customerMonitoredCompliance>false</customerMonitoredCompliance>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2022-11-28T15:56:29</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>bdb70d23-1c48-4849-8c24-38736c0ed315</guid>
+                        <createDateTime>2022-11-28T15:47:05</createDateTime>
+                        <fileName>Договор №93-6 (освидетельствование организации).pdf</fileName>
+                        <description>Договор №93-6 (освидетельствование организации).pdf</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143956925</url>
+                        <registrationNumber>87707274249220015690002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>87707274249220015690000</ns2:contractRegNumber>
+                <ns2:name>93-6</ns2:name>
+                <ns2:contractDate>2022-11-28</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>7e8d3f8e-6c8e-48c0-bee2-c5143bb57284</ns2:guid>
+                    <ns2:purchaseNoticeNumber>32211882173</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2022-11-24T14:34:10</ns2:publicationDateTime>
+                    <ns2:name>Оказание услуг по освидетельствованию 
+ФГБУ «Морспасслужба» на соответствие правилам ФАУ «Российское Классификационное Общество»</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>1ee40781-4ad2-4874-a630-a557d5ae91ec</ns2:lotGuid>
+                <ns2:subjectContract>Оказание услуг по освидетельствованию ФГБУ «Морспасслужба» на соответствие правилам ФАУ "Российское Классификационное Общество"</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:resumeDate>2022-11-24</ns2:resumeDate>
+                
+                <ns2:price>46173.6</ns2:price>
+                <ns2:rubPrice>46173.6</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2022-11-28</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2022-12-31</ns2:endExecutionDate>
+                <ns2:longTermContractVolumes/>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>93376fba-5769-4a65-bdec-d6c705132777</ns2:guid>
+                        <ns2:name>Оказание услуг по освидетельствованию ФГБУ «Морспасслужба» на соответствие правилам ФАУ "Российское Классификационное Общество"</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>71.12.40.140</code>
+                            <name>Услуги государственного контроля (надзора) за соблюдением требований технических регламентов</name>
+                        </ns2:okpd2>
+                        <ns2:typeObjectPurchase>S</ns2:typeObjectPurchase>
+                        <ns2:typeProvision>NO_BUDGET_RESOURCES_FZ44</ns2:typeProvision>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>876</code>
+                            <name>Условная единица</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                        <ns2:unitPrice>46173.6</ns2:unitPrice>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:docDate>2022-11-24</ns2:docDate>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

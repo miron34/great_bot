@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:contract xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/exclusion/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanUpdatePositionDataType/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns20="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns21="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns22="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns23="http://zakupki.gov.ru/223fz/typalOrderClauseList/1" xmlns:ns24="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns25="http://zakupki.gov.ru/223fz/ecp-packet/1" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/agencyRelation/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/customerRegistry/1" xmlns:ns7="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://zakupki.gov.ru/223/integration/schema/TFF-12.3 https://zakupki.gov.ru/223/integration/schema/TFF-12.3/contract.xsd">
+    <header>
+        <guid>c3131cfb-4637-4656-be8c-297238ecd73e</guid>
+        <createDateTime>2022-11-29T08:33:04</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a3ee0b02-0df7-4770-9d2d-dc156160800d</guid>
+            <ns2:contractData>
+                <ns2:guid>0c92b3cc-66fd-45c6-98e9-17d9ada7c1b6</ns2:guid>
+                <ns2:registrationNumber>87707274249220007720003</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:noticeNotPlacedByFz223p5s4>false</ns2:noticeNotPlacedByFz223p5s4>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:customerAppealedOrNeedsApproval>false</ns2:customerAppealedOrNeedsApproval>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlEIS>https://lk.zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=14938221&amp;viewMode=VSRI</ns2:urlEIS>
+                <ns2:createDateTime>2022-11-29T08:28:36</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                        <customerRegistrationDate>1999-01-25T00:00:00</customerRegistrationDate>
+                        <customerAssessedCompliance>false</customerAssessedCompliance>
+                        <customerMonitoredCompliance>false</customerMonitoredCompliance>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Приморский филиал ФГБУ "Морспасслужба"</fullName>
+                        <shortName>Приморский филиал ФГБУ "Морспасслужба"</shortName>
+                        <iko>87707274249253743001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>253743001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>690035, Приморский край, г. Владивосток, Причал 44.</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>05401367000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>31171988</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:publicationDate>2022-11-29T08:33:04</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>изменения периода поставки топлива до 31.03.2023 г.</ns2:modificationDescription>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:provider>true</ns2:provider>
+                <ns2:providerCode>30</ns2:providerCode>
+                <ns2:changeContract>true</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>967313fb-9a83-4cee-a790-bd1f0dfe80c1</guid>
+                        <createDateTime>2022-11-29T08:31:23</createDateTime>
+                        <fileName>ДС№1 от 29.11.22_ООО ТрастГрупп_дизельное топливо (2).pdf</fileName>
+                        <description>ДС№1 от 29.11.22_ООО ТрастГрупп_дизельное топливо (2)</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=144012002</url>
+                        <registrationNumber>87707274249220007720004</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>c9c93361-365b-4bdd-9ce4-4e43a6737866</guid>
+                        <createDateTime>2022-05-26T08:28:50</createDateTime>
+                        <fileName>Договор № 32211355748_ООО Траст групп_.docx</fileName>
+                        <description>Договор № 32211355748_ООО Траст групп_.docx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=144011326</url>
+                        <registrationNumber>87707274249220007720002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>87707274249220007720000</ns2:contractRegNumber>
+                <ns2:name>32211355748</ns2:name>
+                <ns2:contractDate>2022-06-03</ns2:contractDate>
+                <ns2:approveDate>2022-11-29</ns2:approveDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>5412efd6-250f-46b1-a3c8-177ea58fb353</ns2:guid>
+                    <ns2:purchaseNoticeNumber>32211355748</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2022-05-11T17:42:08</ns2:publicationDateTime>
+                    <ns2:name>Поставка дизельного топлива для судов Приморского филиала ФГБУ "Морспасслужба"</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>0113a11e-9720-4e46-92ff-975e1098baba</ns2:lotGuid>
+                <ns2:subjectContract>Поставка дизельного топлива для судов Приморского филиала ФГБУ "Морспасслужба"</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>true</ns2:hasGoodInfo>
+                <ns2:price>4620000</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2022-06-03</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2023-04-30</ns2:endExecutionDate>
+                <ns2:longTermContractVolumes>
+                    <ns2:details>
+                        <ns2:longTermContractVolumeDetail>
+                            <ns2:year>2022</ns2:year>
+                            <ns2:summ>2310000</ns2:summ>
+                        </ns2:longTermContractVolumeDetail>
+                        <ns2:longTermContractVolumeDetail>
+                            <ns2:year>2023</ns2:year>
+                            <ns2:summ>2310000</ns2:summ>
+                        </ns2:longTermContractVolumeDetail>
+                    </ns2:details>
+                    <ns2:volume>4620000</ns2:volume>
+                </ns2:longTermContractVolumes>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>2ca49568-7068-428b-b134-ae2a645aac3b</ns2:guid>
+                        <ns2:name>Поставка дизельного топлива для судов Приморского филиала ФГБУ "Морспасслужба"</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>19.20</code>
+                            <name>Нефтепродукты</name>
+                        </ns2:okpd2>
+                        <ns2:typeObjectPurchase>G</ns2:typeObjectPurchase>
+                        <ns2:countriesOfOrigin>
+                            <ns2:country>
+                                <name>Российская Федерация</name>
+                                <digitalCode>643</digitalCode>
+                            </ns2:country>
+                        </ns2:countriesOfOrigin>
+                        <ns2:typeProvision>NO_BUDGET_RESOURCES_FZ44</ns2:typeProvision>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>166</code>
+                            <name>Килограмм</name>
+                        </ns2:okei>
+                        <ns2:qty>60000</ns2:qty>
+                        <ns2:unitPrice>77</ns2:unitPrice>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractChangeDocs>
+                    <ns2:contractDoc>
+                        <ns2:additionalInfo>Дополнительное соглашение</ns2:additionalInfo>
+                        <ns2:docDate>2022-11-29</ns2:docDate>
+                        <ns2:docNum>1</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractChangeDocs>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>5bc68e70-38ed-49fd-806e-93e44bf82fb0</ns2:protocolInfoGuid>
+                        <ns2:protocolName>Итоговый протокол 32211355748-02</ns2:protocolName>
+                        <ns2:docDate>2022-05-20</ns2:docDate>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

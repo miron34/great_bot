@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:contract xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/exclusion/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanUpdatePositionDataType/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns20="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns21="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns22="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns23="http://zakupki.gov.ru/223fz/typalOrderClauseList/1" xmlns:ns24="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns25="http://zakupki.gov.ru/223fz/ecp-packet/1" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/agencyRelation/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/customerRegistry/1" xmlns:ns7="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://zakupki.gov.ru/223/integration/schema/TFF-12.3 https://zakupki.gov.ru/223/integration/schema/TFF-12.3/contract.xsd">
+    <header>
+        <guid>6e3e11b0-7f84-4a11-9356-1b33f9a39589</guid>
+        <createDateTime>2022-11-30T08:42:38</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>65ae9a95-b8ac-4cb7-9c07-609369b55a63</guid>
+            <ns2:contractData>
+                <ns2:guid>ec41edbc-486a-401c-9abe-45ba45bff430</ns2:guid>
+                <ns2:registrationNumber>87707274249220015810001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:noticeNotPlacedByFz223p5s4>false</ns2:noticeNotPlacedByFz223p5s4>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:customerAppealedOrNeedsApproval>false</ns2:customerAppealedOrNeedsApproval>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlEIS>https://lk.zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=14948741&amp;viewMode=VSRI</ns2:urlEIS>
+                <ns2:createDateTime>2022-11-30T08:35:39</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                        <customerRegistrationDate>1999-01-25T00:00:00</customerRegistrationDate>
+                        <customerAssessedCompliance>false</customerAssessedCompliance>
+                        <customerMonitoredCompliance>false</customerMonitoredCompliance>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Азово-Черноморский филиал Федерального государственного бюджетного учреждения  "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>Азово-Черноморский филиал ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249231543001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>231543001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>03420000000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:publicationDate>2022-11-30T08:42:38</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:provider>true</ns2:provider>
+                <ns2:providerCode>30</ns2:providerCode>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>251b1c48-0b1d-44d2-8f65-b9f2c7cd407a</guid>
+                        <createDateTime>2022-11-30T08:42:09</createDateTime>
+                        <fileName>№ 527 от 30.11.2022г АО Азовская судоверфь.zip</fileName>
+                        <description>№ 527 от 30.11.2022г АО Азовская судоверфь</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=144176595</url>
+                        <registrationNumber>87707274249220015810002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>87707274249220015810000</ns2:contractRegNumber>
+                <ns2:name>527</ns2:name>
+                <ns2:contractDate>2022-11-30</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>396bfc6e-eae6-492e-9018-5769e2f471b8</ns2:guid>
+                    <ns2:purchaseNoticeNumber>32211827126</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2022-11-08T16:13:53</ns2:publicationDateTime>
+                    <ns2:name>Оказание услуг по предоставлению причальной стенки в порту Азов для стоянки судов  Азово-Черноморского  филиала ФГБУ «Морспасслужба»</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>6de4f764-b821-48cb-b330-abb51ef61b0a</ns2:lotGuid>
+                <ns2:subjectContract>Оказание услуг по предоставлению причальной стенки в порту Азов для стоянки судов  Азово-Черноморского  филиала ФГБУ «Морспасслужба»</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:resumeDate>2022-11-16</ns2:resumeDate>
+                
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>670950</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2022-11-30</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2023-12-30</ns2:endExecutionDate>
+                <ns2:longTermContractVolumes>
+                    <ns2:details>
+                        <ns2:longTermContractVolumeDetail>
+                            <ns2:year>2022</ns2:year>
+                            <ns2:summ>335475</ns2:summ>
+                        </ns2:longTermContractVolumeDetail>
+                        <ns2:longTermContractVolumeDetail>
+                            <ns2:year>2023</ns2:year>
+                            <ns2:summ>335475</ns2:summ>
+                        </ns2:longTermContractVolumeDetail>
+                    </ns2:details>
+                    <ns2:volume>670950</ns2:volume>
+                </ns2:longTermContractVolumes>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>1888c13b-e66c-41e1-aaf0-56f0f32c864c</ns2:guid>
+                        <ns2:name>Услуги по постановке судов к причалу в морских и прибрежных водах</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>52.22.13.120</code>
+                            <name>Услуги по постановке судов к причалу в морских и прибрежных водах</name>
+                        </ns2:okpd2>
+                        <ns2:typeObjectPurchase>S</ns2:typeObjectPurchase>
+                        <ns2:typeProvision>NO_BUDGET_RESOURCES_FZ44</ns2:typeProvision>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>876</code>
+                            <name>Условная единица</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                        <ns2:unitPrice>670950</ns2:unitPrice>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>6e8da7eb-8d08-4f73-b8a9-f2a041363a76</ns2:protocolInfoGuid>
+                        <ns2:protocolName>Итоговый протокол 32211827126-01</ns2:protocolName>
+                        <ns2:docDate>2022-11-16</ns2:docDate>
+                        <ns2:docNum>32211827126-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

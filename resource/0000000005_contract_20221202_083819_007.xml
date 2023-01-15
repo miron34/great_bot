@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:contract xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/exclusion/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanUpdatePositionDataType/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns20="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns21="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns22="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns23="http://zakupki.gov.ru/223fz/typalOrderClauseList/1" xmlns:ns24="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns25="http://zakupki.gov.ru/223fz/ecp-packet/1" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/agencyRelation/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/customerRegistry/1" xmlns:ns7="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://zakupki.gov.ru/223/integration/schema/TFF-12.3 https://zakupki.gov.ru/223/integration/schema/TFF-12.3/contract.xsd">
+    <header>
+        <guid>c4228934-a38f-4914-ae11-639d7df7b7ad</guid>
+        <createDateTime>2022-11-25T09:54:46</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6942b7c7-c93a-4dbd-8e16-045219cf4acd</guid>
+            <ns2:contractData>
+                <ns2:guid>acdc07b0-bd12-448b-bfc4-5412605fa605</ns2:guid>
+                <ns2:registrationNumber>87707274249220015440008</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:noticeNotPlacedByFz223p5s4>false</ns2:noticeNotPlacedByFz223p5s4>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>true</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:customerAppealedOrNeedsApproval>false</ns2:customerAppealedOrNeedsApproval>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlEIS>https://lk.zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=14918901&amp;viewMode=VSRI</ns2:urlEIS>
+                <ns2:createDateTime>2022-11-25T09:51:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                        <customerRegistrationDate>1999-01-25T00:00:00</customerRegistrationDate>
+                        <customerAssessedCompliance>false</customerAssessedCompliance>
+                        <customerMonitoredCompliance>false</customerMonitoredCompliance>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Камчатский филиал Федерального бюджетного учреждения «Морская спасательная служба Росморречфлота»</fullName>
+                        <shortName>Камчатский филиал ФБУ «Морспасслужба Росморречфлота»</shortName>
+                        <iko>87707274249410143001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>410143001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>683000, г. Петропавловск-Камчатский, мыс Сигнальный.</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>30401000000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>01126281</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА"</fullName>
+                        <shortName>ФГБУ "МОРСПАССЛУЖБА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, ГОРОД МОСКВА,УЛИЦА ПЕТРОВКА, дом ДОМ 3/6, корпус СТР 2</legalAddress>
+                        <postalAddress>125009, г Москва, р-н Тверской, ул Петровка, дом 3/6, корпус 2</postalAddress>
+                        <okato>45286585000</okato>
+                        <okopf>75103</okopf>
+                        <okopfName>Федеральные государственные бюджетные учреждения</okopfName>
+                        <okpo>18685292</okpo>
+                        <okfs>12</okfs>
+                        <okfsName>Федеральная собственность</okfsName>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:publicationDate>2022-11-25T09:54:46</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Изменение</ns2:modificationDescription>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>120121</ns2:digitalPurchaseCode>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:provider>true</ns2:provider>
+                <ns2:providerCode>30</ns2:providerCode>
+                <ns2:changeContract>true</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>7</totalDocumentsCount>
+                    <document>
+                        <guid>f3e5e28f-d060-4f26-bc29-f3cf7deaf2b8</guid>
+                        <createDateTime>2022-11-11T08:33:00</createDateTime>
+                        <fileName>Сводно-сметный расчет ВО и ВС МИШ (асф и рекульт).xlsx</fileName>
+                        <description>Сводно-сметный расчет ВО и ВС МИШ (асф и рекульт).xlsx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644495</url>
+                        <registrationNumber>87707274249220015440004</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>13e1661a-98e0-496a-8622-20e7dea9487a</guid>
+                        <createDateTime>2022-11-25T09:53:08</createDateTime>
+                        <fileName>Доп соглашение по договору 42-2022 подписанное.pdf</fileName>
+                        <description>Доп соглашение по договору 42-2022 подписанное</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143645310</url>
+                        <registrationNumber>87707274249220015440009</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>bca1e1dc-8392-4e71-b52a-d79e2dcce6cf</guid>
+                        <createDateTime>2022-11-11T08:33:00</createDateTime>
+                        <fileName>ЛСР 2 (03-01-01).xlsx</fileName>
+                        <description>ЛСР 2 (03-01-01).xlsx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644494</url>
+                        <registrationNumber>87707274249220015440003</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>9df3fe70-1f07-4e29-991c-fd3c7560247f</guid>
+                        <createDateTime>2022-11-11T08:32:49</createDateTime>
+                        <fileName>ЛСР 1 (03-02-01).xlsx</fileName>
+                        <description>ЛСР 1 (03-02-01).xlsx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644493</url>
+                        <registrationNumber>87707274249220015440002</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>4acd9d59-5156-496a-b589-0b248def3f86</guid>
+                        <createDateTime>2022-11-20T14:26:35</createDateTime>
+                        <fileName>Договор (Субподряд) 42-2022.docx</fileName>
+                        <description>Договор (Субподряд) 42-2022.docx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644498</url>
+                        <registrationNumber>87707274249220015440007</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>5432fe33-8bc7-4281-96ee-c34d6910f01d</guid>
+                        <createDateTime>2022-11-11T08:33:00</createDateTime>
+                        <fileName>ЛСР 4 (04-01-01).xlsx</fileName>
+                        <description>ЛСР 4 (04-01-01).xlsx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644497</url>
+                        <registrationNumber>87707274249220015440006</registrationNumber>
+                    </document>
+                    <document>
+                        <guid>e43c92ae-ffab-4119-83be-4f0343d46d13</guid>
+                        <createDateTime>2022-11-11T08:33:00</createDateTime>
+                        <fileName>ЛСР 3 (04-02-01).xlsx</fileName>
+                        <description>ЛСР 3 (04-02-01).xlsx</description>
+                        <url>https://lk.zakupki.gov.ru/223/contract/private/download/download.html?id=143644496</url>
+                        <registrationNumber>87707274249220015440005</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>87707274249220015440000</ns2:contractRegNumber>
+                <ns2:name>2022.192098</ns2:name>
+                <ns2:contractDate>2022-11-22</ns2:contractDate>
+                <ns2:approveDate>2022-11-24</ns2:approveDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>a045fe9a-3779-4336-812a-3717547666e9</ns2:guid>
+                    <ns2:purchaseNoticeNumber>32211817571</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2022-11-03T06:09:05</ns2:publicationDateTime>
+                    <ns2:name>Выполнение субподрядных работ в рамках исполнения контракта № 0538300000222000006 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы холодного водоснабжения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей холодного водоснабжения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» и контракта № 0538300000222000005 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы водоотведения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей водоотведения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» Камчатским филиалом ФГБУ «Морспаслужба»</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>eb97fa58-5896-4b04-afd5-74543ac4edd6</ns2:lotGuid>
+                <ns2:subjectContract>Выполнение субподрядных работ в рамках исполнения контракта № 0538300000222000006 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы холодного водоснабжения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей холодного водоснабжения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» и контракта № 0538300000222000005 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы водоотведения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей водоотведения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» Камчатским филиалом ФГБУ «Морспаслужба»</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>12012</ns2:code>
+                    <ns2:name>Аукцион</ns2:name>
+                </ns2:purchaseTypeInfo>
+                
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>8585347.26</ns2:price>
+                <ns2:rubPrice>8585347.26</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2022-11-21</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2022-12-30</ns2:endExecutionDate>
+                <ns2:longTermContractVolumes/>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>3e258d85-bde4-459d-84f8-573d62c9353e</ns2:guid>
+                        <ns2:name>Выполнение субподрядных работ в рамках исполнения контракта № 0538300000222000006 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы холодного водоснабжения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей холодного водоснабжения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» и контракта № 0538300000222000005 на выполнение строительно-монтажных работ по объекту: «Капитальный ремонт ветхих инженерных сетей централизованной системы водоотведения Петропавловск - Камчатского городского округа. Капитальный ремонт сетей водоотведения по ул. Автомобилистов, пр. 50 лет Октября, ул. Тельмана, ул. Северная, ул. 2-ая Северная, г. Петропавловск-Камчатский» Камчатским филиалом ФГБУ «Морспаслужба»</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>43.99</code>
+                            <name>Работы строительные специализированные, не включенные в другие группировки</name>
+                        </ns2:okpd2>
+                        <ns2:typeObjectPurchase>S</ns2:typeObjectPurchase>
+                        <ns2:typeProvision>NO_BUDGET_RESOURCES_FZ44</ns2:typeProvision>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>876</code>
+                            <name>Условная единица</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                        <ns2:unitPrice>8585347.26</ns2:unitPrice>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>b2eddff6-7d71-459b-bcdf-9ffed0ceb2a2</ns2:protocolInfoGuid>
+                        <ns2:protocolName>Итоговый протокол 32211817571-03</ns2:protocolName>
+                        <ns2:docDate>2022-11-11</ns2:docDate>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>
